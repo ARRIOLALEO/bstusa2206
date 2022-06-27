@@ -1,0 +1,6 @@
+{
+    "css.format.spaceAroundSelectorSeparator": true,
+    "html.format.indentHandlebars": true,
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "editor.formatOnSave": true
+}
